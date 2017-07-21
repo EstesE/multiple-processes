@@ -1,0 +1,14 @@
+{
+    "guetzliPath": "./node_modules/guetzli/vendor/./guetzli",
+    "concurrency": 2,
+    "srcDirectory": "./images",
+    "dstDirectory": "./newImages",
+    "percentage": "85",
+    "sizes": [
+      { "width": "360",  "height": "240", "suffix": "-360x240"  },
+      { "width": "390",  "height": "260", "suffix": "-390x260"  }
+      // { "width": "480",  "height": "320", "suffix": "-480x320"  },
+      // { "width": "800",  "height": "533", "suffix": "-800x533"  },
+      // { "width": "1200", "height": "800", "suffix": "-1200x800" }
+    ]
+}
